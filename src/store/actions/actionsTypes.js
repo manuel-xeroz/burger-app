@@ -1,0 +1,21 @@
+export const ADD_INGREDIENT = 'ADD_INGREDIENT';
+export const REMOVE_INGREDIENT = 'REMOVE_INGREDIENT';
+export const SET_INGREDIENTS = 'SET_INGREDIENTS';
+export const FETCH_FAILED = 'FETCH_FAILED';
+
+export const PBURGER_SUCCESS = 'PBURGER_SUCCESS';
+export const PBURGER_FAILED = 'PBURGER_FAILED';
+export const PBURGER_START = 'PBURGER_START';
+
+export const PURCHASE_INIT = 'PURCHASE_INIT';
+
+export const FORDER_SUCCESS = 'FORDER_SUCCESS';
+export const FORDER_FAILED = 'FORDER_FAILED';
+export const FORDER_START = 'FORDER_START';
+
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAILED = 'AUTH_FAILED';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+
+export const SET_REDIRECT = 'SET_REDIRECT';
